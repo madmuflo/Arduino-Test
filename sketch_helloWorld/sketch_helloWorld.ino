@@ -1,5 +1,6 @@
 /* HELLO WORLD!
- * Programma che fa lampeggiare il led al pin13 (quello sulla scheda)
+ * Programma che fa lampeggiare il led al pin13 
+ * sia quello sulla scheda che quello sulla pin board
  * Arduino UNO
  */
 
